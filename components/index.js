@@ -1,8 +1,8 @@
 import Navbar from './Navbar';
 import Footer from './Footer';
 import Modal from './Modal';
-// import CreatorCard from './CreatorCard';
-// import NFTCard from './NFTCard';
+import CreatorCard from './CreatorCard';
+import NFTCard from './NFTCard';
 import Loader from './Loader';
 import SearchBar from './SearchBar';
 import Button from './Button';
@@ -13,8 +13,8 @@ export {
   Navbar,
   Footer,
   Modal,
-  // CreatorCard,
-  // NFTCard,
+  CreatorCard,
+  NFTCard,
   Loader,
   SearchBar,
   Button,
